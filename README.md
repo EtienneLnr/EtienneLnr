@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EtienneLnr
 - 👀 I’m interested in machine learning, deep learning with an emphasis on time series applications
-- 🌱 I’m currently doing my PhD at Sorbonne Universite and EDF R&D 
+- 🌱 I hold a PhD from Sorbonne Universite and EDF R&D 
 - 📫 How to reach me : etienne.le-naour[at]edf.fr
 
 <!---
