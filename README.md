@@ -1,4 +1,4 @@
-## Hi there, I'm Etienne
+## Hi there,
 
 I’m an AI Research Scientist passionate about Deep Learning for time series and temporal data.  
 My work focuses on designing neural architectures capable of learning from complex temporal dynamics — from forecasting to representation learning.  
