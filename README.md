@@ -1,6 +1,6 @@
 ## Hi there,
 
-I’m an AI Research Scientist passionate about Deep Learning for time series and temporal data.  
+I’m an AI Research Scientist specializing in Deep Learning for time series and temporal data.
 My work focuses on designing neural architectures capable of learning from complex temporal dynamics — from forecasting to representation learning.  
 Recently, my research has been centered on developing foundation models for time series, aiming to build general-purpose models that can transfer across domains and tasks in a zero-shot manner.
 
